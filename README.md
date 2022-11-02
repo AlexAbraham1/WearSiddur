@@ -1,0 +1,2 @@
+# WearSiddur
+WearOS Siddur App
