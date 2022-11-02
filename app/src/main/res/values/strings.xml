@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WearSiddur</string>
+    <string name="mincha">Mincha</string>
+    <string name="maariv">Maariv</string>
+    <string name="kriyat_shema">Kriyat Shema</string>
+    <string name="birkat_hamazon">Birkat Hamazon</string>
+
+    <string name="title_activity_tefilla_displayer">TefillaDisplayer</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+
+</resources>
